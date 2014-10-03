@@ -1,4 +1,4 @@
 Social-Network
 ==============
 
-Traduction allemande pour "Social Network" de www.indiemag.fr
+Traduction allemande pour le scénario Plague Inc. "Social Network" de www.indiemag.fr
