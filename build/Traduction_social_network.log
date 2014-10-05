@@ -1,7 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.29)  5 OCT 2014 01:29
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.29)  6 OCT 2014 00:03
 entering extended mode
 **Traduction_social_network.tex
-(C:\Users\temp.Ulrich-port\Documents\Traduction_social_network.tex
+
+(C:\Users\temp.Ulrich-port\Documents\GitHub\Social-Network\Traduction_social_ne
+twork.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -315,7 +317,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks17
 
 ("C:\Programme (x86)\MikTex\tex\latex\geometry\geometry.cfg"))
-(C:\Users\temp.Ulrich-port\Documents\build\Traduction_social_network.aux)
+(C:\Users\temp.Ulrich-port\Documents\GitHub\Social-Network\build\Traduction_soc
+ial_network.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
@@ -495,27 +498,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--116
  []
 
 [3] [4] [5]
-(C:\Users\temp.Ulrich-port\Documents\build\Traduction_social_network.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 300--309
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--309
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--309
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--321
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--321
+
+ []
+
+[6] [7]
+(C:\Users\temp.Ulrich-port\Documents\GitHub\Social-Network\build\Traduction_soc
+ial_network.aux) ) 
 Here is how much of TeX's memory you used:
- 1732 strings out of 493921
- 23058 string characters out of 3148050
- 88810 words of memory out of 3000000
- 5038 multiletter control sequences out of 15000+200000
+ 1736 strings out of 493921
+ 23328 string characters out of 3148050
+ 91810 words of memory out of 3000000
+ 5042 multiletter control sequences out of 15000+200000
  8600 words of font info for 30 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 24i,6n,24p,319b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/
-Programme (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Programme 
-(x86)/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Programme (x86)/MikT
-ex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Programme (x86)/MikTex/fonts
-/type1/public/amsfonts/cm/cmr10.pfb><C:/Programme (x86)/MikTex/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Programme (x86)/MikTex/fonts/type1/public/amsfonts
-/cm/cmr17.pfb><C:/Programme (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmti10.
-pfb>
-Output written on C:/Users/temp.Ulrich-port/Documents/build/Traduction_social_n
-etwork.pdf (5 pages, 125104 bytes).
+ 24i,6n,24p,546b,189s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Programme (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmb
+x10.pfb><C:/Programme (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Programme (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Progra
+mme (x86)/MikTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Programme (x86)/M
+ikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Programme (x86)/MikTex/fonts
+/type1/public/amsfonts/cm/cmr17.pfb><C:/Programme (x86)/MikTex/fonts/type1/publ
+ic/amsfonts/cm/cmti10.pfb>
+Output written on C:/Users/temp.Ulrich-port/Documents/GitHub/Social-Network/bui
+ld/Traduction_social_network.pdf (7 pages, 140280 bytes).
 PDF statistics:
- 46 PDF objects out of 1000 (max. 8388607)
+ 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
